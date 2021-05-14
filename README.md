@@ -1,2 +1,5 @@
-# hypothesis_testing
-Tasca del test d'hipòtesis (Sprint 8)
+Curs: ITAcademy Data Science
+
+Tasca: Test d'hipòtesis - Tasca 10 (Sprint 8)
+
+Alumne: Roger Gallart
